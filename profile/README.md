@@ -2,7 +2,7 @@
 
 예선 제출용 기획안은 아래 레포지토리에서 확인하실 수 있습니다.
 
-👉 **[docs Repository](https://github.com/Team-Payple/docs)**  
+👉 **[docs Repository][(https://github.com/Team-Payple/docs](https://github.com/Team-Payple/docs/blob/main/AI_Service_Proposal.pdf))**  
 <br>
 
 <p align="center">
