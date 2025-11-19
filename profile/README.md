@@ -1,3 +1,12 @@
+## 📄 예선 제출 파일 안내
+
+예선 제출용 기획안 및 발표자료는 아래 레포지토리에서 확인하실 수 있습니다.
+
+👉 **[docs Repository](https://github.com/Team-Payple/docs)**  
+(기획서 / 기획 발표자료 / 제출물 아카이브)
+
+궁금한 점이 있다면 언제든지 문의해주세요!
+
 ![표지](https://github.com/user-attachments/assets/025cf48f-e0a6-4196-9c16-47df717dbf78)
 ![서비스 소개](https://github.com/user-attachments/assets/e563f616-d593-4d64-bb85-4afafd4a83dd)
 ![기존 서비스](https://github.com/user-attachments/assets/cf10d3e3-928e-4392-86f1-bf2cf7f4a61a)
